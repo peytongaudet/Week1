@@ -2,5 +2,6 @@
 My favorite programming language is Python.
 
 
-peytongaudet.github.io
-[link](peytongaudet.github.io)
+https://peytongaudet.github.io/Week1/
+
+[link](https://peytongaudet.github.io/Week1/)
