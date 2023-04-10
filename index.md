@@ -13,7 +13,7 @@ As you can see, that quote was from Jerry West, an all-time great Laker, and I c
 
 ## Programming Life 
 
-As a programmer, my expereince mainly comes from my coursework. I have expereince in:
+As a programmer, I have accrued practical experience through many years of coding. I have a good understanding of:
 
 - Python
 - Java
