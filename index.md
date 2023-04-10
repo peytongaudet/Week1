@@ -55,8 +55,8 @@ This is the one of the first steps to learn about how unsupervised machine learn
 
 My future goals include: 
 - [ ]  Landing an internship
-- [ ]  Build a solid network at UCSD
-- [ ]  *Eventually*, start a business of my own
+- [ ]  Improve on my stock market bot using machine learning
+- [ ]  Being financially stable
 
 
 To get back to the personal life section click this [link](#personal-life)!
